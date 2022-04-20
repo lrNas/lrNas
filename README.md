@@ -3,6 +3,11 @@
 - Atualmente morando no estado de São Paulo
 - lr.nas1894@gmail.com /
 https://www.linkedin.com/in/luronas/
+<div align="center">
+  <a href="https://github.com/lrNas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrNas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrNas&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## Atual pretensão profissional
 - Desenvolvedor Fullstack Junior (React/Node.js)
