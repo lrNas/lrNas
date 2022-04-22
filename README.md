@@ -9,13 +9,15 @@ https://www.linkedin.com/in/luronas/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrNas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Atual pretensão profissional
-- Desenvolvedor Fullstack Junior (React/Node.js)
-- Analista de Segurança da Informação
+  
+## Detalhes para empregadores:
+<details>
+  <summary>Clique aqui para expandir</summary>
 
-## Principais características
-- Pensamento lógico
-- Linguística
+  
+## Caracteristicas pessoais
+- Lógico
+- Dotado de 
 - Criatividade
 - Focado em entregas
 - Facilidade de adaptação
@@ -74,7 +76,7 @@ https://www.linkedin.com/in/luronas/
 - Soft Skills de comunicação de impacto e comunicação não agressiva.
 
 ## Todas experiências profissionais
-- 02/11/2021 à atualmente – Stefanini – Helpdesk bilíngue -  Suporte ao funcionário Nestlé, em rotinas suporte geral. Home Office - Atendimento via fone.
+- 11/2021 à atualmente – Stefanini – Helpdesk bilíngue -  Suporte ao funcionário Nestlé, em rotinas suporte geral. Home Office - Atendimento via fone.
 - 16/08/2019 à 21/10/2021 – Teleperformance – Expert em interação – Suporte, replacement e accounting para o cliente final Xbox. Home Office - Atendimento via chat.
 - 07/10/2021 à 21/10/2021 – Home Agent – Atendimento ao cliente pessoa física Fortbrasil para produtos bancários. Home Office - Atendimento via fone.
 - 07/08/2021 à 03/09/2021 – Almaviva do Brasil – Atendimento ao cliente pessoa física BTG para produtos bancários. Presencial - Atendimento via fone.
@@ -88,3 +90,7 @@ https://www.linkedin.com/in/luronas/
 - 19/11/2012 à 18/04/2013 – Atento SA – Agente de SAC – Sac. Sul América PJ, atendendo hospitais, médicos e outros fornecendo liberação de procedimento ou indicação do Rol ANS. Presencial - Atendimento via fone.
 - 17/09/2012 à 25/09/2012 – Refrio Armazéns Gerais LTDA – Coletor em armazém refrigerado.
 - 02/05/2012 à 11/09/2012 – G.L. de Almeida Embalagens – Representante comercial para embalagens de Pizzaria. Presencial - Porta a Porta.
+</details>
+
+
+
