@@ -17,8 +17,7 @@ https://www.linkedin.com/in/luronas/
   
 ## Caracteristicas pessoais
 - Lógico
-- Dotado de 
-- Criatividade
+- Dotado de Criatividade
 - Focado em entregas
 - Facilidade de adaptação
 - Rápido aprendizado
