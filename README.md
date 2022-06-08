@@ -29,18 +29,14 @@ https://www.linkedin.com/in/luronas/
 - Análise e desenvolvimento de sistemas - Tecnólogo - 1 ano - Encerrado antecipadamente - 2015
 - Ciência da computação - Bacharel - 1 ano e meio - Encerrado antecipadamente - 2012
 
-### Certificados a caminho
-- CCNA1 + Network Security – Cisco
-- Fullstack Node.js – Digital House
-- Analitycs – Digital House
-- Fullstack Java – Alura ONE (Oracle Next Education)
-- CPA20 – Anbima
-
 ### Cursos certificados
 
 #### FIAP
 - Análise de sistemas e prototipação Web
 - Desenvolvimento de sistemas Web
+  
+#### Digital House
+- Fullstack Node.js / React.js
 
 #### Cisco
 - Cybersecurity Essecials
